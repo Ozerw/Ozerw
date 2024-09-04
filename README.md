@@ -1,3 +1,3 @@
 # 👋 Hello, I'm Ozerw
 
-- A Python Developer
+<h3> Python / JavaScript Developer </h3>
