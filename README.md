@@ -1,3 +1,3 @@
 # 👋 Hello, I'm Ozerw
 
-- A Basic Python Developer
+- A Python Developer
